@@ -28,6 +28,7 @@ android {
     buildFeatures {
         viewBinding true
     }
+    namespace 'com.netology.mqa_lesson_2_1'
 }
 
 dependencies {
